@@ -1,7 +1,4 @@
 {
-  "projectSettings": {
-    "projectId": "prj_KRNaKS0DvBQhxsLvXU5fqhgY6167"
-  },
   "rewrites": [
     {
       "source": "/(.*)",
